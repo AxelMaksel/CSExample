@@ -1,0 +1,15 @@
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.csproj.AssemblyReference.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.AssemblyInfo.cs
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\bin\Debug\net6.0\my_kvadrat.exe
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\bin\Debug\net6.0\my_kvadrat.deps.json
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\bin\Debug\net6.0\my_kvadrat.runtimeconfig.json
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\bin\Debug\net6.0\my_kvadrat.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\bin\Debug\net6.0\my_kvadrat.pdb
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\refint\my_kvadrat.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.pdb
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\my_kvadrat.genruntimeconfig.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\my_kvadrat\obj\Debug\net6.0\ref\my_kvadrat.dll
