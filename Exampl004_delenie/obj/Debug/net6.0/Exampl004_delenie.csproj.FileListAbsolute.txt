@@ -1,0 +1,15 @@
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\bin\Debug\net6.0\Exampl004_delenie.exe
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\bin\Debug\net6.0\Exampl004_delenie.deps.json
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\bin\Debug\net6.0\Exampl004_delenie.runtimeconfig.json
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\bin\Debug\net6.0\Exampl004_delenie.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\bin\Debug\net6.0\Exampl004_delenie.pdb
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.csproj.AssemblyReference.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.AssemblyInfo.cs
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\refint\Exampl004_delenie.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.pdb
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\Exampl004_delenie.genruntimeconfig.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl004_delenie\obj\Debug\net6.0\ref\Exampl004_delenie.dll
