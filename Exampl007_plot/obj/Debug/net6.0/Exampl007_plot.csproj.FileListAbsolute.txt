@@ -1,0 +1,15 @@
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\bin\Debug\net6.0\Exampl007_plot.exe
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\bin\Debug\net6.0\Exampl007_plot.deps.json
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\bin\Debug\net6.0\Exampl007_plot.runtimeconfig.json
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\bin\Debug\net6.0\Exampl007_plot.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\bin\Debug\net6.0\Exampl007_plot.pdb
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.csproj.AssemblyReference.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.AssemblyInfo.cs
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\refint\Exampl007_plot.dll
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.pdb
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\Exampl007_plot.genruntimeconfig.cache
+C:\Users\User\Documents\MSVisualCode\CS\Exampl007_plot\obj\Debug\net6.0\ref\Exampl007_plot.dll
