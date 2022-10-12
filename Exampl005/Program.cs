@@ -7,6 +7,6 @@ if(username.ToLower() == "маша")
 }
 else
 {
-    Console.Write("Hi, ");
+    Console.Write("Hi , ");
     Console.WriteLine(username);
 }
