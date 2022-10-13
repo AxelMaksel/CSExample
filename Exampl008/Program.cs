@@ -16,6 +16,12 @@ while (yy < 20)
 {
     while (count <30)
     {
+        
+        if (Console.ReadKey(true).Key == ConsoleKey.Enter)
+        {
+                    Console.WriteLine("Enter pressed");
+        
+        }
         Console.SetCursorPosition(count, yy);
         Console.WriteLine("  ");
         count ++;
